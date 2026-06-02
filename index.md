@@ -9,7 +9,7 @@ author_profile: true
 
 Hi! I'm Ruby (Wei-Tzu Lee), a senior undergraduate in Electrical and Computer Engineering with minor in Applied Mathematics at the University of Washington. My work focuses on machine learning systems and hardware acceleration. I research in the UW Systems of Future Intelligence (SyFI) lab under Professor Baris Kasikci.
 
-## Publications
+### Publications
 
 {% for pub in site.data.publications %}
 - **{{ pub.title }}**  
