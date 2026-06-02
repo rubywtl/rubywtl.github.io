@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Wei-Tzu Lee"
-  avatar: "{{ site.baseurl }}/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/ruby.jpg"
   bio    : ""
   links:
     - label: "LinkedIn"
