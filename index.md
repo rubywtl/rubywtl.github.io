@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-Hi! I'm Ruby (Wei-Tzu Lee), a senior undergraduate in Electrical and Computer Engineering with a minor in Applied Mathematics at the University of Washington. My research focuses on machine learning systems, efficient inference, and hardware acceleration for AI workloads, spanning both cloud/datacenter infrastructure and resource-constrained edge devices. I am particularly interested in building systems that make modern AI models more efficient, scalable, and deployable in real-world settings. More recently, I have developed an interest in speech applications, including ASR, SpeechLMs, and speech-enabled agentic systems.
+Hi! I'm Wei-Tzu (Ruby) Lee, a recent graduate in Electrical and Computer Engineering with a minor in Applied Mathematics from the University of Washington. I'm broadly interested in machine learning systems, with a focus on efficient inference for large language models and multimodal models, particularly speech language models, as well as emerging agentic workloads.
 
-Since Fall 2024, I have been an undergraduate researcher in the Systems of Future Intelligence (SyFI) Lab in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by Professor Baris Kasikci.
+From Fall 2024 to July 2026, I was fortunate to be an undergraduate researcher in the Systems for Future Intelligence (SyFI) Lab in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by Professor Baris Kasikci.
 
 ### Publications
 
