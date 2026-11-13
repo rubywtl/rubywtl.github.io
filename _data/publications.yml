@@ -1,4 +1,4 @@
-- title: "Murmur: An Efficient Inference System for Long-Form ASR"
+- title: "Murmur: Efficient Long-Context ASR Inference with Hierarchical Chunking"
   authors: "Wei-Tzu Lee, Keisuke Kamahori, Baris Kasikci"
   venue: "arXiv"
   year: 2026
@@ -6,7 +6,7 @@
   type: "preprint"
 
 - title: "VoxServe: Streaming-Centric Serving System for Speech Language Models"
-  authors: "Keisuke Kamahori, Wei-Tzu Lee, Atindra Jha, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci"
+  authors: "Keisuke Kamahori, Rohan Kadekodi, Garv Ghai, Wei-Tzu Lee, Atindra Jha, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci"
   venue: "arXiv"
   year: 2026
   url: "https://arxiv.org/abs/2602.00269"
